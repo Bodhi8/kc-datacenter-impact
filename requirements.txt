@@ -1,0 +1,23 @@
+# Kansas City Data Center Impact Analysis
+# Python package requirements
+
+# Core dependencies
+numpy>=1.21.0
+pandas>=1.3.0
+scikit-learn>=1.0.0
+matplotlib>=3.4.0
+
+# Optional dependencies for enhanced functionality
+jupyter>=1.0.0              # For notebooks
+seaborn>=0.11.0            # Enhanced visualizations
+plotly>=5.0.0              # Interactive charts
+pytest>=6.2.0              # Testing framework
+black>=21.0                # Code formatting
+flake8>=3.9.0              # Linting
+
+# Specific versions used in development
+# Uncomment for exact reproducibility
+# numpy==1.24.3
+# pandas==2.0.3
+# scikit-learn==1.3.0
+# matplotlib==3.7.2
