@@ -6,7 +6,7 @@ Machine Learning models forecasting electricity prices and water consumption imp
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Code style: black](https://img.shields.io/badge/code%20style-black-000000.svg)](https://github.com/psf/black)
 
-## 📊 Key Findings
+##  Key Findings
 
 Machine learning analysis reveals Kansas City households face:
 
@@ -16,13 +16,13 @@ Machine learning analysis reveals Kansas City households face:
 - **Infrastructure Investment:** $7.07 billion over 10 years
 - **Data Center Load:** 1,368 MW by 2030 (7.5% of total grid)
 
-## 🎯 Purpose
+##  Purpose
 
 This repository provides transparent, reproducible analysis of how data center growth affects Kansas City's electricity grid, prices, and water resources. All code, data, and methodology are open for validation, critique, and extension.
 
 **Target audience:** Policymakers, journalists, researchers, community advocates, and concerned residents.
 
-## 📁 Repository Structure
+##  Repository Structure
 
 ```
 kc-datacenter-impact/
@@ -56,7 +56,7 @@ kc-datacenter-impact/
 └── README.md                              # This file
 ```
 
-## 🚀 Quick Start
+##  Quick Start
 
 ### Prerequisites
 
@@ -93,7 +93,7 @@ The scripts will generate:
 - `outputs/charts/*.jpg` - High-resolution charts
 - Console output with key findings and projections
 
-## 📈 Models & Methodology
+##  Models & Methodology
 
 ### Model Components
 
@@ -139,7 +139,7 @@ The scripts will generate:
 
 See [METHODOLOGY.md](docs/METHODOLOGY.md) for complete technical details.
 
-## 📊 Key Results
+##  Key Results
 
 ### Electricity Demand Projections
 
@@ -195,7 +195,7 @@ The models were cross-validated against three real-world data center buildouts:
 
 See [VALIDATION.md](docs/VALIDATION.md) for detailed statistical analysis.
 
-## 📉 Model Limitations
+##  Model Limitations
 
 **Acknowledged Uncertainties:**
 
@@ -212,7 +212,7 @@ See [VALIDATION.md](docs/VALIDATION.md) for detailed statistical analysis.
 
 Despite uncertainties, directional trend is clear and consistent across multiple validation approaches.
 
-## 🛠️ Usage Examples
+##  Usage Examples
 
 ### Load and analyze forecast data
 
@@ -277,7 +277,7 @@ fig = plot_demand_forecast(
 )
 ```
 
-## 📚 Documentation
+##  Documentation
 
 Detailed documentation available in `/docs`:
 
@@ -286,7 +286,7 @@ Detailed documentation available in `/docs`:
 - **[POLICY_RECOMMENDATIONS.md](docs/POLICY_RECOMMENDATIONS.md)** - Detailed policy analysis and recommendations
 - **[DATA_SOURCES.md](data/data_sources.md)** - Complete list of data sources with citations
 
-## 🤝 Contributing
+##  Contributing
 
 Contributions welcome! This analysis benefits from:
 
@@ -304,7 +304,7 @@ See [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines.
 - [ ] Add interactive dashboard (Plotly/Dash)
 - [ ] Time-series cross-validation for demand forecasting
 
-## 📄 License
+##  License
 
 This project is licensed under the MIT License - see [LICENSE](LICENSE) file for details.
 
@@ -318,12 +318,12 @@ This project is licensed under the MIT License - see [LICENSE](LICENSE) file for
 - Include original copyright notice
 - Include license text
 
-## 📞 Contact
+## Contact
 
 **Author:** Brian Curry  
-**Email:** [your-email@example.com]  
-**LinkedIn:** [Your LinkedIn URL]  
-**Medium:** [Your Medium Profile]
+**Email:** [brian at vector1.ai]
+**LinkedIn:** [https://www.linkedin.com/in/research-economic-systems-ai-algorithmic-optimization-seo/]  
+**Medium:** []
 
 **For:**
 - Questions about methodology
@@ -332,7 +332,7 @@ This project is licensed under the MIT License - see [LICENSE](LICENSE) file for
 - Policy collaboration
 - Speaking engagements
 
-## 🌟 Citation
+##  Citation
 
 If you use this analysis in research, journalism, or policy work, please cite:
 
@@ -350,7 +350,7 @@ Or in text:
 > Curry, B. (2025). Kansas City Data Center Impact Analysis: Machine Learning Forecasting Models. 
 > Available at: https://github.com/yourusername/kc-datacenter-impact
 
-## 📰 Media & Press
+##  Media & Press
 
 This analysis has been featured in:
 - Medium: [Article Link]
@@ -359,7 +359,7 @@ This analysis has been featured in:
 
 **Press Kit Available:** Contact for high-resolution charts, executive summary, and interview availability.
 
-## 🙏 Acknowledgments
+##  Acknowledgments
 
 - Evergy, Kansas Corporation Commission, Missouri Public Service Commission for public data
 - Kansas City community organizations for feedback and advocacy
@@ -368,7 +368,7 @@ This analysis has been featured in:
 
 All errors and interpretations are the author's alone.
 
-## ⚠️ Disclaimer
+## Disclaimer
 
 This analysis is provided for informational and policy planning purposes. Projections represent scenario modeling based on publicly available data and announced projects. Actual outcomes will depend on regulatory decisions, policy interventions, technology adoption, and economic conditions.
 
@@ -385,7 +385,7 @@ This analysis is provided for informational and policy planning purposes. Projec
 
 ---
 
-## 🔄 Version History
+##  Version History
 
 **v1.0.0** (November 2025)
 - Initial release
@@ -395,7 +395,7 @@ This analysis is provided for informational and policy planning purposes. Projec
 
 ---
 
-## 📊 Project Stats
+##  Project Stats
 
 ![GitHub stars](https://img.shields.io/github/stars/yourusername/kc-datacenter-impact?style=social)
 ![GitHub forks](https://img.shields.io/github/forks/yourusername/kc-datacenter-impact?style=social)
