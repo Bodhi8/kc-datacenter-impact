@@ -174,7 +174,7 @@ See [METHODOLOGY.md](docs/METHODOLOGY.md) for complete technical details.
 | Annual Usage | 3.9 billion gallons | 3.9 billion gallons |
 | Household Equivalent | 35,391 homes | 35,391 homes |
 
-## 🔬 Model Validation
+## Model Validation
 
 The models were cross-validated against three real-world data center buildouts:
 
@@ -353,9 +353,8 @@ Or in text:
 ##  Media & Press
 
 This analysis has been featured in:
-- Medium: [Article Link]
-- [Local News Outlet]
-- [Policy Organization]
+- Medium: [https://medium.com/@brian-curry-research/your-electric-bill-could-jump-2-700-annually-by-2035-e0174fa05f8b?postPublishedType=repub]
+
 
 **Press Kit Available:** Contact for high-resolution charts, executive summary, and interview availability.
 
