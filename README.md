@@ -323,7 +323,7 @@ This project is licensed under the MIT License - see [LICENSE](LICENSE) file for
 **Author:** Brian Curry  
 **Email:** [brian at vector1.ai]
 **LinkedIn:** [https://www.linkedin.com/in/research-economic-systems-ai-algorithmic-optimization-seo/]  
-**Medium:** []
+**Medium:** [https://medium.com/@brian-curry-research]
 
 **For:**
 - Questions about methodology
