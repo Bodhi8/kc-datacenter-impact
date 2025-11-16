@@ -93,7 +93,7 @@ and policy decisions. The model is built for the right purpose.
 
 
 ═══════════════════════════════════════════════════════════════════════════
-SECTION 3: REAL-WORLD MARKET VALIDATION ⭐ MOST IMPORTANT
+SECTION 3: REAL-WORLD MARKET VALIDATION  MOST IMPORTANT
 ═══════════════════════════════════════════════════════════════════════════
 
 This is the GOLD STANDARD test: How did the model perform against actual
